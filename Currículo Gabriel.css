@@ -1,0 +1,38 @@
+h1{ 
+    text-align: center;  
+    background-color:aqua;
+    border-bottom-style: dashed
+}
+h2{
+    text-align: center;
+    border-bottom-style: dashed
+    
+}
+h3{
+    text-align: center;
+    border-bottom-style: dashed
+    
+}
+html{
+        background-image: url(129308-3.jpeg)
+                
+    }
+.especial{
+   width: 960px;
+    padding: 0px 30px 0px 30px;
+    margin: auto;
+    border: solid 3px;
+    background-color: white        
+    }
+div{
+    display
+}
+.diferente{
+    text-align: center;
+   
+}
+.outro{
+     text-align: center;  
+    background-color: antiquewhite;
+    border-bottom-style: dashed;
+}
